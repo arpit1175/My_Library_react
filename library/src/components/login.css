@@ -1,0 +1,110 @@
+
+.all{
+margin: 12px;
+padding: 8px;
+
+border: 2px double green;
+border-radius: 7px;
+
+}
+.login-page{
+    
+    width: 40vw;
+    text-align: center;
+    margin-left: 379px;
+    margin-top: 54px;
+    position: relative;
+    
+    
+    
+}
+
+.sizing{
+width: 300px;
+    justify-content: space-around;
+    display: grid;
+}
+
+.nav{
+   
+   
+    
+    display: flexbox;
+    justify-content: center;
+}
+
+.butons{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.form1
+{
+
+    width: 70vw;
+    margin-left: 250px;
+    border: 0.5px dotted rgb(39, 37, 37);
+    border-radius: 5px;
+    padding: 40px;
+    height: 134vh;
+    position: relative;
+}
+
+.butcont{
+    position: absolute;
+    display: flex;
+    margin-left: 450px;
+    margin-top: 38px;
+}
+
+#viewmybooks{
+    position: absolute;
+    margin: 20px, 30px;
+
+
+}
+
+.maincont{
+    /* display: grid; */
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 33.333333%
+
+    
+
+}
+
+.cardd{
+
+    width: 30%;
+}
+
+.add{
+    display: flex;
+    justify-content: center;
+    height: 217px;
+    padding: 96px;
+}
+
+
+.login-text{
+    font-size: 50px;
+    margin-top: -103px;
+margin-left: 653px;
+    position: absolute;
+}
+.logo-image{
+
+    height: 80px;
+    font-size: 50px;
+    font-family: 'Aref Ruqaa Ink', serif;;
+    margin-left: 598px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #000000a3;
+    font-weight: bold;
+
+    /* background-image: url('./my\ -liblogo.jpg'); */
+}
